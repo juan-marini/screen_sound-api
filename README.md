@@ -1,4 +1,4 @@
-# ScreenSoud 4.0
+# ScreenSoud - Consumindo API
 
 Este sistema foi desenvolvido para gerenciar, filtrar e organizar uma lista de músicas, permitindo também a criação de uma lista de músicas favoritas com exportação para JSON.
 
